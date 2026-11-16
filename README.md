@@ -1,4 +1,4 @@
-# HidroSmart — PHP + MySQL + XAMPP
+# HidroSmart
 
 Projeto acadêmico com frontend HTML/CSS/JavaScript e API PHP que **lê** o banco MySQL `hidrosmart` existente.
 
